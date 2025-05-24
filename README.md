@@ -43,9 +43,14 @@
 
 ## 🖼️ Screenshots
 
-> *(Optional: Add a `/screenshots` folder and include GIFs or images like below)*
 ![Sign In](./Screenshots/signIn.png)
 ![Sign Up](./Screenshots/signUp.png)
+![Home Page](./Screenshots/homePage.png)
+![Notifications](./Screenshots/notifications.png)
+![Profile](./Screenshots/profile.png)
+![Reply](./Screenshots/reply.png)
+![Mobile Home Page](./Screenshots/mobileHomePage.png)
+![Mobile Profile](./Screenshots/mobileProfile.png)
 
 ---
 
