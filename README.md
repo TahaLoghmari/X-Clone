@@ -44,10 +44,8 @@
 ## 🖼️ Screenshots
 
 > *(Optional: Add a `/screenshots` folder and include GIFs or images like below)*
-
-![Home Feed](./screenshots/feed.png)
-![Tweet Detail](./screenshots/tweet.png)
-![Profile](./screenshots/profile.png)
+![Sign In](./Screenshots/signIn.png)
+![Sign Up](./Screenshots/signUp.png)
 
 ---
 
